@@ -1,0 +1,7 @@
+git remote add origin https://github.com/nishkersh/practice.git : to connect to the remote repo named practice from terminal
+git remote : it will show origin
+git remote -v : it will show two linksf for fetch and push 
+              origin	https://github.com/nishkersh/practice.git (fetch)
+              origin	https://github.com/nishkersh/practice.git (push)
+               these links can be changed if required 
+
